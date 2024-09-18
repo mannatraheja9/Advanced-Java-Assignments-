@@ -37,7 +37,7 @@ class Square extends Shape {
     }
 }
 
-public class InheritanceEgArea {
+public class InheritanceEgShape {
     public static void main(String args[]) {
         Shape circle = new Circle(7);
         Shape rectangle = new Rectangle(6, 8);
